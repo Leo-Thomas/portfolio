@@ -2,7 +2,7 @@
   "name": "tokyo",
   "version": "2.3.0",
   "private": true,
-  "homepage": "https://leo-thomas.github.io/portfolio/",
+  "homepage": "https://leo-thomas.github.io/website/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.5",
@@ -55,6 +55,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   }
 }
